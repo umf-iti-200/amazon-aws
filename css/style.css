@@ -46,3 +46,7 @@ h2:before {
 pre {
     border-radius: 6px;
 }
+
+.breadcrumb{
+    background-color: lightgray;
+}
